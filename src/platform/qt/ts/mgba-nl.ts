@@ -27,7 +27,7 @@
     <message>
         <location filename="../AboutScreen.ui" line="68"/>
         <source>{projectName} would like to thank the following patrons from Patreon:</source>
-        <translation>{projectName} wilt graag de volgende patrons van Patreon bedanken:</translation>
+        <translation>{projectName} wil graag de volgende patrons van Patreon bedanken:</translation>
     </message>
     <message>
         <location filename="../AboutScreen.ui" line="86"/>
@@ -153,7 +153,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../BattleChipView.ui" line="94"/>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <location filename="../BattleChipView.ui" line="114"/>
@@ -226,7 +226,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../CheatsView.ui" line="41"/>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <location filename="../CheatsView.ui" line="48"/>
@@ -241,8 +241,8 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../CheatsView.ui" line="95"/>
         <source>Enter codes here...</source>
-        <translatorcomment>Litteral translation: Enter the cheatcodes here...</translatorcomment>
-        <translation>Voeg hier de cheatcodes toe...</translation>
+        <translatorcomment>Literal translation: Enter the codes here...</translatorcomment>
+        <translation>Voer hier codes in...</translation>
     </message>
 </context>
 <context>
@@ -255,7 +255,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../DebuggerConsole.ui" line="25"/>
         <source>Enter command (try `help` for more info)</source>
-        <translation>Voer hier een commando in (probeer `help` in te typen voor meer info)</translation>
+        <translation>Voer een opdracht in (probeer `help` voor meer informatie)</translation>
     </message>
     <message>
         <location filename="../DebuggerConsole.ui" line="32"/>
@@ -268,7 +268,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../FrameView.ui" line="14"/>
         <source>Inspect frame</source>
-        <translation>Inspecteer frame</translation>
+        <translation>Inspecteer Beeld</translation>
     </message>
     <message>
         <location filename="../FrameView.ui" line="28"/>
@@ -283,7 +283,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../FrameView.ui" line="50"/>
         <source>Freeze frame</source>
-        <translation>Frame pauzeren</translation>
+        <translation>Beeld pauzeren</translation>
     </message>
     <message>
         <location filename="../FrameView.ui" line="84"/>
@@ -883,7 +883,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../MemoryView.ui" line="291"/>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>Opslaan</translation>
     </message>
 </context>
 <context>
@@ -5115,7 +5115,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../ShaderSelector.ui" line="95"/>
         <source>Load New Shader</source>
-        <translation>Nieuwe Shader Laden</translation>
+        <translation type="unfinished">Nieuwe Shader Openen</translation>
     </message>
 </context>
 <context>
