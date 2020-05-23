@@ -231,7 +231,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../CheatsView.ui" line="48"/>
         <source>Add New Set</source>
-        <translation>Nieuwe Set Toevoegen</translation>
+        <translation>Nieuwe set toevoegen</translation>
     </message>
     <message>
         <location filename="../CheatsView.ui" line="55"/>
@@ -241,9 +241,8 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../CheatsView.ui" line="95"/>
         <source>Enter codes here...</source>
-        <translatorcomment>Literal translation: Enter the cheatcodes here...</translatorcomment>
-        <translatorcomment>Why does this have trailing ellipses? ("Voer hier (de cheat)codes in") -- K</translatorcomment>
-        <translation type="unfinished">Voer hier codes in...</translation>
+        <translatorcomment>Why does this have trailing ellipses? (&quot;Voer hier (de cheat)codes in&quot;) -- K</translatorcomment>
+        <translation>Voer hier codes in...</translation>
     </message>
 </context>
 <context>
@@ -1373,7 +1372,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../PrinterView.ui" line="167"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="../PrinterView.ui" line="180"/>
@@ -1544,7 +1543,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../FrameView.cpp" line="431"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
         <location filename="../FrameView.cpp" line="449"/>
@@ -1554,12 +1553,12 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../FrameView.cpp" line="451"/>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <location filename="../FrameView.cpp" line="454"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster</translation>
     </message>
     <message>
         <location filename="../FrameView.cpp" line="457"/>
@@ -1574,7 +1573,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../FrameView.cpp" line="466"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -1656,7 +1655,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../GIFView.cpp" line="49"/>
         <source>Failed to open output GIF file: %1</source>
-        <translation type="unfinished">Kon (GIF) doelbestand niet openen: %1</translation>
+        <translation>Kon (GIF) doelbestand niet openen: %1</translation>
     </message>
     <message>
         <location filename="../GIFView.cpp" line="67"/>
@@ -3596,6 +3595,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../TileView.cpp" line="178"/>
         <source>Export tiles</source>
+        <translatorcomment>Beste manier om &quot;tiles&quot; zo te laten? ~MX</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3643,7 +3643,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="314"/>
         <source>All ROMs (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle ROMs (%1)</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="315"/>
@@ -3653,7 +3653,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="330"/>
         <source>Archives (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archieven (%1)</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="335"/>
@@ -3786,17 +3786,17 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1039"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1041"/>
         <source>%1 - %2 - %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1043"/>
         <source>%1 - %2 (%3 fps) - %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 (%3 fps) - %4</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1084"/>
@@ -4077,7 +4077,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1326"/>
         <source>%1×</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1351"/>
@@ -4117,7 +4117,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1418"/>
         <source>FPS target</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS doelwit</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1426"/>
@@ -4127,12 +4127,13 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1441"/>
         <source>Take &amp;screenshot</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Accelerator is obviously missing, but I don&apos;t know where to put it or even if it&apos;s needed ~MX</translatorcomment>
+        <translation>Schermafdruk maken</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1443"/>
         <source>F12</source>
-        <translation type="unfinished"></translation>
+        <translation>F12</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1447"/>
@@ -4142,7 +4143,8 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1448"/>
         <source>Record GIF...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Driedubbelepunt is ook te vinden op de oorsprongkelijke tekst. ~MX</translatorcomment>
+        <translation>GIF Opnemen...</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1452"/>
@@ -4252,7 +4254,7 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../Window.cpp" line="1627"/>
         <source>Exit fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Uit volledige scherm gaan</translation>
     </message>
     <message>
         <location filename="../Window.cpp" line="1629"/>
@@ -4491,17 +4493,17 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../SettingsView.ui" line="62"/>
         <source>Emulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Emulatie</translation>
     </message>
     <message>
         <location filename="../SettingsView.ui" line="67"/>
         <source>Enhancements</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeteringen</translation>
     </message>
     <message>
         <location filename="../SettingsView.ui" line="72"/>
         <source>BIOS</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOS</translation>
     </message>
     <message>
         <location filename="../SettingsView.ui" line="77"/>
@@ -5222,9 +5224,8 @@ Game Boy Advance is een geregristreerd merknaam van Nintendo Co., Ltd.</translat
     <message>
         <location filename="../VideoView.ui" line="101"/>
         <source>Presets</source>
-        <translatorcomment>There&apos;s no real Dutch word for preset, so I opted for using &quot;Codecs and resolution of recording&quot;</translatorcomment>
         <translatorcomment>Voorkeuze, iemand? -- K</translatorcomment>
-        <translation>Codecs en Resolutie Opname</translation>
+        <translation>Voorkeuzes</translation>
     </message>
     <message>
         <location filename="../VideoView.ui" line="109"/>
